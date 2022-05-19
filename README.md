@@ -1,4 +1,4 @@
-# <fav games>
+# fav games
 
 ## サイト概要
 ### サイトテーマ
